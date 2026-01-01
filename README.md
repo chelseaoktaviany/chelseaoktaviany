@@ -1,4 +1,3 @@
-# about chelsea
 <h1 align="center">Hi 👋, I'm Chelsea Oktaviany</h1>
 
 
