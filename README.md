@@ -45,4 +45,6 @@
 <div align="center">
  <h2>Stats</h2>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chelseaoktaviany&theme=dark&date_format=j%2Fn%5B%2FY%5D&ring=918B8B&fire=918B8B&currStreakLabel=918B8B&background=040404" alt="GitHub Streak" /></a>
+ <br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelseaoktaviany&layout=compact&theme=dark&bg_color=040404&text_color=fff&line_height=10" alt="Top Langs"/></a>
 </div>
