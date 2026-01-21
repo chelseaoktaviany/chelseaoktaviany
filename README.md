@@ -1,10 +1,15 @@
+<!-- header -->
+<div align="center">
+ <img src="https://cdn.discordapp.com/banners/1389663783755972699/a_06303d0a525578aad2f61d6ff9637a6b.gif?size=600" alt="header" />
+</div>
+
 <!-- introduction -->
 <div align="center">
- <h1>Hi 👋, I'm Chelsea Oktaviany</h1>
+ <h1>Hi there, I'm Chelsea</h1>
  <ul>
-   <ol>🌱 I’m currently learning <b>CSS</b>, <b>JavaScript/JS ES6</b> and <b>MERN Stack</b> technology.</ol>
-   <ol>👨‍💻 All of my projects are available at <a href="https://github.com/chelseaoktaviany" target="_blank">github</a></ol>
-   <ol>📫 How to reach me <b>@chelseaoktaviany at linkedin<b></ol>
+   <ol>I’m currently learning <b>CSS</b>, <b>JavaScript/JS ES6</b> and <b>MERN Stack</b> technology</ol>
+   <ol>All of my projects are available at <a href="https://github.com/chelseaoktaviany" target="_blank">github</a></ol>
+   <ol>How to reach me <b>@chelseaoktaviany at linkedin<b></ol>
 </div>
 
 <!-- social media -->
@@ -34,4 +39,10 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</div>
+
+<!-- stats -->
+<div align="center">
+ <h2>Stats</h2>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chelseaoktaviany&theme=dark&date_format=j%2Fn%5B%2FY%5D&ring=918B8B&fire=918B8B&currStreakLabel=918B8B&background=040404" alt="GitHub Streak" /></a>
 </div>
